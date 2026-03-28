@@ -1,3 +1,4 @@
+opencv-python
 ultralytics
 pytorchvideo
 yt-dlp
